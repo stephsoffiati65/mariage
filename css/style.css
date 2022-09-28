@@ -1684,4 +1684,10 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
-/*# sourceMappingURL=style.css.map */
+/* icon-calendar */
+
+@media screen and (max-width: 850px) {
+  .icon-calendar{
+    margin-top: 2%;
+  }
+}
