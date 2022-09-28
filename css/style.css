@@ -1687,9 +1687,8 @@ h1, h2, h3, h4, h5, h6 {
 /* icon-calendar */
 
 @media (max-width: 850px) {
-  .col-md-5 col-md-pull-1 .icon-calendar
+ .icon-calendar
   {
-    margin-top: 30px;
-    padding-top: 30px
+    line-height: 5;
   }
 }
